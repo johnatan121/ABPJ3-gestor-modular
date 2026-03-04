@@ -1,7 +1,7 @@
 equipe = {}
 
 def adicionar_funcionario():
-    no=input(print('digite o nme do funcionario'))
+    no=input(print('digite o nome do funcionario'))
     de=input(print('digite o departamento'))
     equipe[no]=de
 
