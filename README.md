@@ -2,8 +2,8 @@
 Um projeto academico para aprofundamento em python
 
 💻 Sobre
-Esse projeto tem como finalidade de desenvolver um codigo. com o objetivo de criar uma lista de funcionario.com menu, adicionando,
- removendo, usando funcao
+Esse projeto tem como finalidade de desenvolver um codigo. com o objetivo de criar uma lista de funcionario.com "menu, adicionando,
+ remover, lista, sair"
 
 ✨ Fluxograma
 
