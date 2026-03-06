@@ -5,11 +5,13 @@ def adicionar_funcionario():
     """entra com os dados do funcionaro"""
     nome =input('digite o nome do funcionario ')
     departamento=input('digite o departamento ')
+    print(' cadastro realizado ')
     equipe[nome]=departamento
 
 def remover_funcionario():
     """ faz a remocao do funcionario"""
     nome=input('digite o nome do funcionario ')
+    print(' funcionario removido ')
     if nome in equipe:
         equipe.pop(nome)
         return equipe
