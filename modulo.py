@@ -11,7 +11,6 @@ def adicionar_funcionario():
 def remover_funcionario():
     """ faz a remocao do funcionario"""
     nome=input('digite o nome do funcionario ')
-    print(' funcionario removido ')
     if nome in equipe:
         equipe.pop(nome)
         return equipe
