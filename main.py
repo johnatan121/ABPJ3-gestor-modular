@@ -1,7 +1,7 @@
 equipe = {}
 
 def adicionar_funcionario():
-    """entra com os dados do funcionaro"""
+    """entrada dos dados para cadastro"""
     nome =input('digite o nome do funcionario ')
     departamento=input('digite o departamento ')
     equipe[nome]=departamento
