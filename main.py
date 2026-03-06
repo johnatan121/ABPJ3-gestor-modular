@@ -25,6 +25,7 @@ def listar_equipe():
             print(f"{nome} - {departamento} ")
    
 while True:
+    """ Exibe o menu """
     print('----MENU----')
     print('digite o numero para iniciar "acao" ')
     print('1 -> adicionar: ')
