@@ -2,7 +2,7 @@
 Um projeto academico para aprofundamento em python
 
 💻 Sobre
-Esse projeto tem como finalidade de desenvolver um codigo. com o objetivo de criar uma lista de funcionario.com "menu, adicionando,
+Esse projeto tem como finalidade de desenvolver um codigo. com o objetivo de criar uma lista de cadastro equipe "funcionario",  com "menu, adicionando,
  remover, lista, sair"
 
 ✨ Fluxograma
